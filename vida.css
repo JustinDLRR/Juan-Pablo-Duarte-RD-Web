@@ -1,0 +1,32 @@
+body{
+    background-image: url("resources/image/wood.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+h1{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 40pt;
+    color: white;
+
+}
+
+h2{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 40pt;
+    color: white;
+
+}
+h3{
+ font-family: Georgia, 'Times New Roman', Times, serif;
+    color: white;
+}
+p{
+     font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20pt;
+    color: rgb(54, 31, 31);
+    font-weight: bolder;
+
+}
